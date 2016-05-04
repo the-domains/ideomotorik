@@ -1,0 +1,28 @@
+name: ideomotorik
+favicon: null
+layout_spectrum: 0.8918669144622982
+typography_spectrum: 0.46760455681942403
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.8990484969690442
+  lightness: 0.9613985763862729
+  saturation: 0.20393477752804756
+  rhythmicContrast: 0.18939862633123994
+purpose: []
